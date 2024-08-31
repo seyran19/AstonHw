@@ -1,6 +1,6 @@
-package Lesson5.Service;
+package Lesson6.Service;
 
-import Lesson5.entity.Employee;
+import Lesson6.entity.Employee;
 
 import java.util.List;
 

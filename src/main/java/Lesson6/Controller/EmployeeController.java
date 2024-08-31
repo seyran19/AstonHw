@@ -1,7 +1,7 @@
-package Lesson5.Controller;
+package Lesson6.Controller;
 
-import Lesson5.Service.EmployeeService;
-import Lesson5.entity.Employee;
+import Lesson6.Service.EmployeeService;
+import Lesson6.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;

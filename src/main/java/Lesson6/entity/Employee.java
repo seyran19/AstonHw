@@ -1,4 +1,4 @@
-package Lesson5.entity;
+package Lesson6.entity;
 
 import jakarta.persistence.*;
 

@@ -1,7 +1,7 @@
-package Lesson5.Service;
+package Lesson6.Service;
 
-import Lesson5.DAO.EmployeeDAO;
-import Lesson5.entity.Employee;
+import Lesson6.DAO.EmployeeDAO;
+import Lesson6.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

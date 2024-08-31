@@ -1,6 +1,6 @@
-package Lesson5.DAO;
+package Lesson6.DAO;
 
-import Lesson5.entity.Employee;
+import Lesson6.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
